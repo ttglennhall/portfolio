@@ -1,0 +1,54 @@
+body {
+	font-family: 'Lato', sans-serif;
+}
+
+.container {
+	background-color: #F0F0F0;
+}
+
+.header {
+	padding: 15px;
+	background-color: #005C90;
+}
+
+.textHeader {
+	color: white;
+	padding-right: 15%;
+}
+
+h2 {
+	text-indent: 3%;
+	color: #A1CE47;
+}
+
+.aboutMe {
+	padding-left: 10%;
+}
+
+.aboutMeText {
+	font-size: 21px;
+}
+
+@media screen and (max-width: 991px) {
+	#minScreenWidth {
+		display: none;
+	}
+}
+
+.blue-color {
+	color: #3FB1E5;
+}
+
+.max-size {
+	padding-bottom: 12px;
+	max-width: 300px;
+	max-height: 200px;
+}
+
+.organizations {
+	padding-left: 9%;
+}
+
+.darkblue-color {
+	 color: #005C90;
+}
